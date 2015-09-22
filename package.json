@@ -17,7 +17,6 @@
 	"type" : "git",
 	"url" : "https://github.com/tbenbrahim/windows-service-manager.git"
   },
-  "os" : [ "win32" ],
   "author": "Tony BenBrahim <tony.benbrahim@gmail.com",
   "license": "MIT",
   "readmeFilename": "README.md"
